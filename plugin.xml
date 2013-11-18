@@ -9,7 +9,7 @@
     <keywords>phonegap,spenplugin</keywords>
 
 
-    <js-module src="www/js/SPenPlugin.js" name="SPenPlugin">
+    <js-module src="www/SPenPlugin.js" name="SPenPlugin">
         <clobbers target="window.spenplugin" />
     </js-module>    
 
